@@ -1,9 +1,10 @@
-# docencia
-
-Sesión: Simulation of macromolecular systems
-
-Curso IQTCUB: Advanced Molecular Modelling: biomolecules and drug design
-
-Molecular Modelling: biomolecules and drug design
+# Curso IQTCUB: Molecular Modelling: biomolecules and drug design
 
 
+## Sesión: Simulation of macromolecular systems
+
+
+
+- Ejecutar el notebook desde un terminal:
+
+  ./app/espresso/build/ipypresso notebook
