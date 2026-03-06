@@ -1,4 +1,4 @@
-# Curso IQTCUB: Molecular Modelling: biomolecules and drug design
+#  Molecular Modelling: biomolecules and drug design
 
 
 ## Sesión: Simulation of macromolecular systems
